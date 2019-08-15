@@ -17,6 +17,7 @@ return [
 		'languages' => ['pl'], // this is only a placeholder - no need to really translate it
 	],
 	/* extensions list begin */
+	'datitisev-dashboard' => 'https://raw.githubusercontent.com/datitisev/flarum-ext-dashboard/master/resources/locale/en.yml',
 	'extiverse-bazaar' => 'https://raw.githubusercontent.com/extiverse/bazaar/master/resources/locale/en.yml',
 	'flagrow-linguist' => 'https://raw.githubusercontent.com/FriendsOfFlarum/linguist/master/resources/locale/en.yml',
 	'flagrow-upload' => 'https://raw.githubusercontent.com/FriendsOfFlarum/upload/master/resources/locale/en.yml',
