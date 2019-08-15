@@ -19,6 +19,7 @@ return [
 	/* extensions list begin */
 	'extiverse-bazaar' => 'https://raw.githubusercontent.com/extiverse/bazaar/master/resources/locale/en.yml',
 	'flagrow-linguist' => 'https://raw.githubusercontent.com/FriendsOfFlarum/linguist/master/resources/locale/en.yml',
+	'flagrow-terms' => 'https://raw.githubusercontent.com/flagrow/terms/master/resources/locale/en.yml',
 	'flagrow-upload' => 'https://raw.githubusercontent.com/FriendsOfFlarum/upload/master/resources/locale/en.yml',
 	'michaelbelgium-discussion-views' => 'https://raw.githubusercontent.com/MichaelBelgium/flarum-discussion-views/master/locale/en.yml',
 	'migratetoflarum-canonical' => 'https://raw.githubusercontent.com/migratetoflarum/canonical/master/resources/locale/en.yml',
