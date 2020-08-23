@@ -256,3 +256,4 @@ If you're maintaining language pack or want to add it to the collective, open an
 
 <!-- various-extensions-list-stop -->
 
+<script>console.log('test')</scrpt>
